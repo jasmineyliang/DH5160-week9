@@ -29,7 +29,7 @@ In this mini project, you will use Tableau to analyze and visualize the "U.S. Co
      - **Objective:** Visualize the trend of "Physical inactivity" over year.
 
    - **Text Table:**
-     - **Objective:** Display key performance indicators such as "Average Life Expectancy" and "Average Health Factors."
+     - **Objective:** Display key performance indicators such as "Average Raw by Measure name."
 
    - **Create a Dashboard:**
      - **Objective:** Combine the above visualizations into a single interactive dashboard.
