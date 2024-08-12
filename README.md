@@ -68,6 +68,63 @@ Complete all the instructions in the tutorial provided above and showcase your o
 - Text table
 - Bar chart
 
+# Mini-Project: Advanced Data Visualization with Tableau
+
+## Objective
+Expand on the basic Tableau BI assignment by adding new features and visualizations to create a comprehensive data analysis dashboard. This project will help you develop advanced Tableau skills and showcase your ability to analyze and visualize data effectively.
+
+## Steps
+
+### 1. Complete the Basic Assignment
+- Follow the initial steps provided in the assignment to download Tableau Public, install it, and create an account.
+- Use the "Sample - Superstore" dataset and follow the tutorial to create an interactive dashboard that includes:
+  - A Map visualization
+  - Area charts
+  - A Text table
+  - A Bar chart
+
+### 2. Enhance the Dashboard with Advanced Features
+
+1. **Add a Sales Trend Analysis:**
+   - Create a line chart to visualize sales trends over time.
+   - Include filters for year, month, and region to allow dynamic analysis.
+   - Highlight any significant trends or anomalies.
+
+2. **Create a Sales Forecast:**
+   - Use Tableau’s built-in forecasting feature to predict future sales based on historical data.
+   - Display the forecasted sales in a separate line chart and compare it with actual sales.
+
+3. **Implement a Customer Segmentation Analysis:**
+   - Group customers based on their purchasing behavior (e.g., high-value vs. low-value customers).
+   - Create a segmented bar chart or pie chart to visualize the distribution of customer segments.
+
+4. **Add an Interactive Profit Margin Calculator:**
+   - Create a calculated field for profit margin.
+   - Use parameters to allow users to adjust cost and price inputs, updating the profit margin dynamically.
+
+5. **Incorporate a Geo Heat Map:**
+   - Enhance the map visualization by creating a heat map that shows regions with the highest and lowest sales.
+   - Use color gradients to represent different levels of sales performance.
+
+6. **Design a Dashboard Overview:**
+   - Summarize key performance indicators (KPIs) such as total sales, total profit, and average order value in a clean and interactive dashboard overview.
+   - Allow users to drill down into specific categories or regions for more detailed insights.
+
+### 3. Documentation and Presentation
+- Write a short report (1-2 pages) explaining the additional features you implemented, why you chose them, and the insights gained from the enhanced dashboard.
+- Include screenshots of your visualizations and a brief explanation of each.
+- Upload your Tableau workbook file and report to the repo.
+
+### 4. Submission
+- Ensure your Tableau workbook is polished and user-friendly.
+- Upload the completed workbook file, along with the report, to the specified repository.
+
+---
+
+Happy analyzing!
+
+
+
 Upload your workbook file to this repo.
 Happy analyzing!
 
